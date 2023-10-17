@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zaha Hadid Architects</title>
+    </head>
+
+    <body>
+        <h1>Zaha Hadid Architects</h1>
+        <hr>
+        <br>
+        <p><h3>
+             Zaha Hadid Architects is a British architecture and design firm <br>
+             founded by Zaha Hadid (1950–2016), with its main office situated in <br>
+             <a href="https://en.wikipedia.org/wiki/Clerkenwell"> Clerkenwell</a>,
+             London.[3]
+             <br>
+             <br>
+             After the death of "starchitect" Hadid, Patrik Schumacher
+             became head of the firm, at the time with a staff of 400 with
+             36 projects across 21 countries
+        </h3>
+        </p>
+        <br>
+        <hr>
+        <h2>
+            Zaha Hadid's most famous project <br>
+            <br>
+             <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/Heydar_Aliyev_Cultural_Center.jpg" height="200 px" width="400px">
+        </h2>
+    </body>
+</html>
