@@ -29,3 +29,33 @@
         </h2>
     </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>brooh</title>
+</head>
+<ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>
+<ol>
+   <li>3</li>
+   <li>2</li>
+   <li>1</li>
+</ol>
+
+<table border="7">
+<tr style="background-color:rgb(133, 133, 12)">
+    <th>col1</th>
+    <th>col2</th>
+</tr style="background-color:rgb(133, 133, 12)">
+<tr>
+    <td>col3</td>
+    <td>col4</td>
+</tr>
+
+</table>
+
+
+</html>
