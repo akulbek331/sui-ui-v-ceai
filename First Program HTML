@@ -28,34 +28,51 @@
              <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/Heydar_Aliyev_Cultural_Center.jpg" height="200 px" width="400px">
         </h2>
     </body>
-</html>
+</html> 
+
+
+
+
+
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>brooh</title>
-</head>
-<ul>
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
-</ul>
-<ol>
-   <li>3</li>
-   <li>2</li>
-   <li>1</li>
-</ol>
+<html>
+    <head>
+        <title>Favorite music</title>
+    </head>
+    
+    <body style="background-color:LightBlue">
+        <h1 style="color:#990099; text-align:center">Rock'n roll/bluzz</h1>
+        <h2 style="text-align:center; color:Darkblue">System of a down</h2>
+        <ul style="color:rgb(200, 0 , 250)">
+            <li>Chop Suey</li>
+            <li>Toxicity</li>
+            <li>Aerials</li>
+            <li>Atom</li>
+        </ul>
+        <h2 style="text-align:center;color:Darkblue">Linkin Park</h2>
+        <ul style="color:rgb(200, 0 , 250)" >
+            <li>In the End</li>
+            <li>Castle of Glass
+                <ol>
+                    <li>Final Masquerade</li>
+                    <li>What I've done</li>
+                    <li>Numb</li>
+                </ol>
+                
+            </li>
+        </ul>
+        
+    <table style="font-size: 60px; text-align:center" border="2">
+         <tr style="background-color:rgb(133, 0, 130)">
+             <th>Linkin Park</th>
+             <th>System of a Down</th>
+         </tr>
+         <tr>
+             <td>Numb</td>
+              <td>Chop Suey</td>
+         </tr>
 
-<table border="7">
-<tr style="background-color:rgb(133, 133, 12)">
-    <th>col1</th>
-    <th>col2</th>
-</tr style="background-color:rgb(133, 133, 12)">
-<tr>
-    <td>col3</td>
-    <td>col4</td>
-</tr>
-
-</table>
-
-
+     </table>
+        
+    </body>
 </html>
