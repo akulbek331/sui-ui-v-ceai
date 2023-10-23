@@ -76,3 +76,29 @@
         
     </body>
 </html>
+
+<style>
+   h1 {
+    color:blue;
+    text-align:center
+
+   }
+   .qwerty { 
+    color:yellow;
+    background-color: aqua;
+   }
+
+
+</style>
+
+
+<h1>I wanna sleep</h1>
+<p class="qwerty">Indeed, bro</p>
+<h1>I wanna sleep</h1>
+<p class="qwerty"> Indeed, bro</p>
+<h1>I wanna sleep</h1>
+<p>Indeed, bro</p>
+<h1>I wanna sleep</h1>
+<p>Indeed, bro</p>
+<h1>I wanna sleep</h1>
+<p class="qwerty">Indeed, bro</p>
