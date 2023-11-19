@@ -1,0 +1,33 @@
+   p:hover {
+      color: green;
+      font-weight: bold;
+    }
+
+    a:visited {
+      color: purple;
+    }
+
+    a: active {
+      color: yellow;
+    }
+
+    p::before {
+      content: 'Hello ';
+      color: red;
+      font-weight: bold;
+    }
+
+    p::after {
+      content: ' Bye!';
+      color: red;
+      font-weight: bold;
+    }
+
+    span::first-line {
+      text-transform: uppercase;
+    }
+
+    p::selection {
+      background-color: purple;
+      color: white;
+    }
