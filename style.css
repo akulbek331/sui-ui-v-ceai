@@ -1,0 +1,102 @@
+
+   h1 {
+    color:blue;
+    text-align:center
+
+   }
+   .qwerty { 
+    color:yellow;
+    background-color: aqua;
+   }
+
+   h1 {
+
+color: blue;
+text-align: center;
+}
+.qwerty {
+color: red;
+background-color: yellow;
+}
+
+body {
+   padding: 20px;
+}
+
+.header {
+   background-color: rgb(0, 22, 110);
+   font-weight: 100;
+   text-align: center;
+   padding: 10px;
+   color: white;
+   margin-bottom: 10px;
+}
+  
+.content {
+background: #9af7ff;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida';
+padding: 10px;
+margin-bottom: 10px;
+}
+
+.footer {
+background: #184282;
+color: white;
+padding: 10px;
+}
+
+.bold {
+text-transform: uppercase;
+font-weight: 900;
+color: yellow;
+}
+
+div a {
+    background-color: antiquewhite;
+    padding: 20px;
+   }
+
+a > h1 {
+background-color: blue;
+color: white;
+}
+
+a + a {
+background-color: red;
+
+   p:hover {
+      color: green;
+      font-weight: bold;
+    }
+
+    a:visited {
+      color: purple;
+    }
+
+    a: active {
+      color: yellow;
+    }
+
+    p::before {
+      content: 'Hello ';
+      color: red;
+      font-weight: bold;
+    }
+
+    p::after {
+      content: ' Bye!';
+      color: red;
+      font-weight: bold;
+    }
+
+    span::first-line {
+      text-transform: uppercase;
+    }
+
+    p::selection {
+      background-color: purple;
+      color: white;
+    }
+  
+}
+
